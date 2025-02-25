@@ -1,0 +1,6 @@
+farm-ng-amiga
+opencv-python==4.6.0.66
+numpy==1.26.4
+kornia==0.8.0
+kornia_rs==0.1.8
+open3d==0.19.0
